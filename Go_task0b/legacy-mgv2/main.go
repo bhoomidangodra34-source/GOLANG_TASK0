@@ -8,7 +8,7 @@ import (
 	"github.com/julienschmidt/httprouter"
 	"gopkg.in/mgo.v2"
 
-	"legacy/controllers"
+	"legacy-mgv2/controllers"
 )
 
 func main() {
