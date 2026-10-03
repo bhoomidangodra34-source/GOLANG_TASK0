@@ -1,4 +1,4 @@
-module mongo-golang
+module legacy-mgv2 
 
 go 1.26.5
 
