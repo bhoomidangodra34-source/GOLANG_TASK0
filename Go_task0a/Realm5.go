@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"time"
 )
-
-// Q5.1
+
 func main() {
 
 	// Q5.1
